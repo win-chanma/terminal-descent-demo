@@ -1,16 +1,53 @@
-# Terminal Descent Rogue - Demo
+# terminal-descent - Demo
 
 A dystopian roguelike game built with TypeScript and Canvas
 
-## 🚀 Status
+## 🎮 Play the Game
 
-This demo will be automatically deployed from the private development repository.
+**[▶️ PLAY NOW](https://win-chanma.github.io/terminal-descent-demo/)**
 
-## 🎮 Coming Soon
+## 🎯 How to Play
 
-The playable demo will be available at:
-**https://win-chanma.github.io/terminal-descent-demo/**
+### Controls
+- **WASD** - Move around
+- **Space** - Toggle attack mode
+- **F** - Interact with items/stairs
+- **I** - Open inventory
+- **1-9** - Use/equip items
+- **P** - Pause game
+
+### Objective
+- Explore the dungeon and defeat enemies
+- Collect weapons and armor to improve your stats
+- Use stairs to progress to deeper floors
+- Survive as long as possible!
+
+## 🛡️ Game Features
+
+- **Dynamic Combat System** - Floor-based enemy scaling
+- **Equipment System** - Weapons and armor with stat bonuses
+- **Multi-Floor Exploration** - Up to 10 floors with increasing difficulty
+- **Inventory Management** - Collect and use various items
+- **Tutorial System** - Learn the game mechanics step by step
+
+## 🎨 Screenshots
+
+*Experience the retro terminal aesthetic with modern gameplay mechanics.*
+
+## 🔧 Technical Stack
+
+- **TypeScript** - Type-safe development
+- **Canvas API** - Custom rendering engine
+- **Vite** - Fast build tooling
+- **Vitest** - Comprehensive testing
+- **Playwright** - End-to-end testing
+
+## 📊 Stats
+
+- **2025-07-08** - Last updated
+- **Version 1.0.0**
+- **100% TypeScript** - Fully typed codebase
 
 ---
 
-*This repository contains only the built game files. Development happens in a private repository.*
+*This is a demo deployment. The game is actively developed in a private repository.*
