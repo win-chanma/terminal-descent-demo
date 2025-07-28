@@ -44,7 +44,7 @@ A dystopian roguelike game built with TypeScript and Canvas
 
 ## 📊 Stats
 
-- **2025-07-23** - Last updated
+- **2025-07-28** - Last updated
 - **Version 1.0.0**
 - **100% TypeScript** - Fully typed codebase
 
